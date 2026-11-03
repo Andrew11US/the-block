@@ -4,3 +4,7 @@ node_modules/
 .DS_Store
 *.log
 *.bak
+
+# Local planning and generated design artifacts
+/IMPLEMENTATION_PLAN.md
+/design-concepts/

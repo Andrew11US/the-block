@@ -1,0 +1,11 @@
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+
+# Local screenshot artifacts
+/docs/*.png
+/docs/*.jpg
+/docs/*.jpeg
+/docs/*.webp

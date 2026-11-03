@@ -6,6 +6,10 @@
 
 ### A coding challenge from OPENLANE
 
+## iPhone submission
+
+The SwiftUI implementation is in [`the-block-app/`](the-block-app/). See the [app README](the-block-app/README.md) for setup, scope, architecture, testing, and future improvements. After cloning this repository, open `the-block-app/the-block-app.xcodeproj` in Xcode.
+
 ---
 
 OPENLANE powers one of the world's largest digital marketplaces for used vehicles. Every day, thousands of vehicles move through our platform - inspected, listed, auctioned, and sold. Your job is to interpret what we do and bring a working prototype to life.
